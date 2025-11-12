@@ -1,0 +1,112 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\VisualStud\\Lab_MVC_App\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F5BA7507-23D9-4FEE-9F5E-64EE7042EF8D}|Lab_MVC_App\\Lab_MVC_App.csproj|D:\\VisualStud\\Lab_MVC_App\\lab_mvc_app\\view\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5BA7507-23D9-4FEE-9F5E-64EE7042EF8D}|Lab_MVC_App\\Lab_MVC_App.csproj|solutionrelative:lab_mvc_app\\view\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5BA7507-23D9-4FEE-9F5E-64EE7042EF8D}|Lab_MVC_App\\Lab_MVC_App.csproj|D:\\VisualStud\\Lab_MVC_App\\lab_mvc_app\\model\\mainmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5BA7507-23D9-4FEE-9F5E-64EE7042EF8D}|Lab_MVC_App\\Lab_MVC_App.csproj|solutionrelative:lab_mvc_app\\model\\mainmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5BA7507-23D9-4FEE-9F5E-64EE7042EF8D}|Lab_MVC_App\\Lab_MVC_App.csproj|d:\\visualstud\\lab_mvc_app\\lab_mvc_app\\controller\\maincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5BA7507-23D9-4FEE-9F5E-64EE7042EF8D}|Lab_MVC_App\\Lab_MVC_App.csproj|solutionrelative:lab_mvc_app\\controller\\maincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5BA7507-23D9-4FEE-9F5E-64EE7042EF8D}|Lab_MVC_App\\Lab_MVC_App.csproj|D:\\VisualStud\\Lab_MVC_App\\lab_mvc_app\\view\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F5BA7507-23D9-4FEE-9F5E-64EE7042EF8D}|Lab_MVC_App\\Lab_MVC_App.csproj|solutionrelative:lab_mvc_app\\view\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5BA7507-23D9-4FEE-9F5E-64EE7042EF8D}|Lab_MVC_App\\Lab_MVC_App.csproj|D:\\VisualStud\\Lab_MVC_App\\lab_mvc_app\\view\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5BA7507-23D9-4FEE-9F5E-64EE7042EF8D}|Lab_MVC_App\\Lab_MVC_App.csproj|solutionrelative:lab_mvc_app\\view\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MainController.cs",
+              "DocumentMoniker": "D:\\VisualStud\\Lab_MVC_App\\Lab_MVC_App\\Controller\\MainController.cs",
+              "RelativeDocumentMoniker": "Lab_MVC_App\\Controller\\MainController.cs",
+              "ToolTip": "D:\\VisualStud\\Lab_MVC_App\\Lab_MVC_App\\Controller\\MainController.cs",
+              "RelativeToolTip": "Lab_MVC_App\\Controller\\MainController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-14T19:14:47.154Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "D:\\VisualStud\\Lab_MVC_App\\Lab_MVC_App\\View\\Form1.cs",
+              "RelativeDocumentMoniker": "Lab_MVC_App\\View\\Form1.cs",
+              "ToolTip": "D:\\VisualStud\\Lab_MVC_App\\Lab_MVC_App\\View\\Form1.cs",
+              "RelativeToolTip": "Lab_MVC_App\\View\\Form1.cs",
+              "ViewState": "AgIAADgAAAAAAAAAAAA9wAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-14T16:53:04.872Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainModel.cs",
+              "DocumentMoniker": "D:\\VisualStud\\Lab_MVC_App\\Lab_MVC_App\\Model\\MainModel.cs",
+              "RelativeDocumentMoniker": "Lab_MVC_App\\Model\\MainModel.cs",
+              "ToolTip": "D:\\VisualStud\\Lab_MVC_App\\Lab_MVC_App\\Model\\MainModel.cs",
+              "RelativeToolTip": "Lab_MVC_App\\Model\\MainModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-14T18:17:51.76Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "D:\\VisualStud\\Lab_MVC_App\\Lab_MVC_App\\View\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "Lab_MVC_App\\View\\Form1.Designer.cs",
+              "ToolTip": "D:\\VisualStud\\Lab_MVC_App\\Lab_MVC_App\\View\\Form1.Designer.cs",
+              "RelativeToolTip": "Lab_MVC_App\\View\\Form1.Designer.cs",
+              "ViewState": "AgIAAPEAAAAAAAAAAAAkwAUBAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-14T20:31:38.715Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "D:\\VisualStud\\Lab_MVC_App\\Lab_MVC_App\\View\\Form1.cs",
+              "RelativeDocumentMoniker": "Lab_MVC_App\\View\\Form1.cs",
+              "ToolTip": "D:\\VisualStud\\Lab_MVC_App\\Lab_MVC_App\\View\\Form1.cs [Design]",
+              "RelativeToolTip": "Lab_MVC_App\\View\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-14T16:45:18.499Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

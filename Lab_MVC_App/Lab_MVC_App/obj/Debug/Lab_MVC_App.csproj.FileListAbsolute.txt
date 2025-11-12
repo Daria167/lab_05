@@ -1,0 +1,11 @@
+D:\VisualStud\Lab_MVC_App\Lab_MVC_App\bin\Debug\Lab_MVC_App.exe.config
+D:\VisualStud\Lab_MVC_App\Lab_MVC_App\bin\Debug\Lab_MVC_App.exe
+D:\VisualStud\Lab_MVC_App\Lab_MVC_App\bin\Debug\Lab_MVC_App.pdb
+D:\VisualStud\Lab_MVC_App\Lab_MVC_App\obj\Debug\Lab_MVC_App.csproj.AssemblyReference.cache
+D:\VisualStud\Lab_MVC_App\Lab_MVC_App\obj\Debug\Lab_MVC_App.Properties.Resources.resources
+D:\VisualStud\Lab_MVC_App\Lab_MVC_App\obj\Debug\Lab_MVC_App.Form1.resources
+D:\VisualStud\Lab_MVC_App\Lab_MVC_App\obj\Debug\Lab_MVC_App.csproj.GenerateResource.cache
+D:\VisualStud\Lab_MVC_App\Lab_MVC_App\obj\Debug\Lab_MVC_App.csproj.CoreCompileInputs.cache
+D:\VisualStud\Lab_MVC_App\Lab_MVC_App\obj\Debug\Lab_MVC_App.exe
+D:\VisualStud\Lab_MVC_App\Lab_MVC_App\obj\Debug\Lab_MVC_App.pdb
+D:\VisualStud\Lab_MVC_App\Lab_MVC_App\obj\Debug\Lab_MVC_App.exe.config
